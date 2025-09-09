@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>{{ title }}</h1>
+            <p class="generated">Generated at: {{ generated_at }}</p>
+        </header>
+
+        <!-- City Input Display -->
+        <div class="city-card">
+            <h2>City: {{ city if city else "Enter a city in Python context" }}</h2>
+        </div>
+
+        <!-- Weather Table -->
+        <table class="weather-table">
+            <thead>
+                <tr>
+                    <th>Meteorological variables</th>
+                    <th>Values</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for code, description in weather.items() %}
+                <tr>
+                    <td>{{ code }}</td>
+                    <td>{{ description }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

@@ -1,0 +1,114 @@
+/* ---------------- Body & Container ---------------- */
+body {
+    font-family: "Segoe UI", "Roboto", sans-serif;
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.container {
+    max-width: 900px;
+    margin: 50px auto;
+    background-color: rgba(255,255,255,0.95);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+}
+
+/* ---------------- Header ---------------- */
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    font-size: 2.5em;
+    color: #2c3e50;
+}
+
+header .generated {
+    font-size: 0.95em;
+    color: #555;
+}
+
+/* ---------------- City Card ---------------- */
+.city-card {
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    color: white;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    font-size: 1.4em;
+    margin-bottom: 30px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+/* ---------------- Weather Table ---------------- */
+.weather-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+}
+
+.weather-table th, .weather-table td {
+    padding: 15px;
+    text-align: left;
+}
+
+.weather-table thead th {
+    background: #2980b9;
+    color: white;
+    font-weight: 600;
+}
+
+.weather-table tbody tr {
+    background-color: #f9f9f9;
+    transition: background 0.3s;
+}
+
+.weather-table tbody tr:nth-child(even) {
+    background-color: #ececec;
+}
+
+.weather-table tbody tr:hover {
+    background-color: #d6eaf8;
+}
+
+/* ---------------- Responsive ---------------- */
+@media (max-width: 600px) {
+    .weather-table, .weather-table thead, .weather-table tbody, .weather-table th, .weather-table td, .weather-table tr {
+        display: block;
+        width: 100%;
+    }
+
+    .weather-table thead tr {
+        display: none;
+    }
+
+    .weather-table tbody tr {
+        margin-bottom: 15px;
+        border-radius: 10px;
+        background: #fff;
+        box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+        padding: 10px;
+    }
+
+    .weather-table td {
+        padding-left: 50%;
+        text-align: right;
+        position: relative;
+    }
+
+    .weather-table td::before {
+        content: attr(data-label);
+        position: absolute;
+        left: 15px;
+        width: 45%;
+        text-align: left;
+        font-weight: 600;
+    }
+}
