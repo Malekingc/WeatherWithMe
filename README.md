@@ -18,8 +18,8 @@
 *Safraoui Mohammed Amine*
 
 ### Project Description
-WeatherWithMe is a collaborate project that uses a dataset (dictionary) of city names with their coordinates (longitude, latitude) 
-it uses a weather **API** in order to get weather information based on the coordinates of a city listed in the dataset, it uses of course as demanded jinja2 to show the data requested by the user in a html generated web page.
+WeatherWithMe is a collaborate project that uses a dataset (dictionary) of city names with their coordinates (longitude, latitude).
+It uses a weather **API** in order to get weather information based on the coordinates of a city listed in the dataset. It uses of course, as requested, **Jinja2** to show the data requested by the user in order to generate an **HTML** web page.
 
 ### License Information
 There is no license associated with this project
