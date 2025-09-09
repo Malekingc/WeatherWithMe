@@ -5,7 +5,7 @@
   <img src="./logo.png" alt="Sorry no image"/>
 </p>
 
-<h5 align="center">FBI_open_up X GrizzlyBears </h5>
+<h3 align="center">FBI_open_up X GrizzlyBears </h5>
 
 **PS : This is the first collaboration ever between the 2 archenemies** 
 
