@@ -5,8 +5,9 @@
   <img src="./logo.png" alt="Sorry no image"/>
 </p>
 
+<h5 align="center">FBI_open_up X GrizzlyBears </h5>
 
-This is the first collaboration ever between the 2 archenemies **FBI_open_up and GrizzlyBears** under the name **UndercoverBears**
+**PS : This is the first collaboration ever between the 2 archenemies** 
 
 **Team: FBI_Open_Up**
 *Bouaza Mohammed-Said* and
