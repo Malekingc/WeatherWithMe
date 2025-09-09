@@ -2,12 +2,12 @@
 ## UndercoverBears first Project ()
 This is the first collaboration ever between the 2 archenemies **FBI_open_up and GrizzlyBears** under the name **UndercoverBears**
 
-**team: FBI_Open_Up**
-*Bouaza Mohammed-Said*
+**Team: FBI_Open_Up**
+*Bouaza Mohammed-Said* and
 *Cedrati Mohammed Cherif*
 
-**team: GrizzluBears**
-*Chergui Mohammed Malek*
+**Team: GrizzluBears**
+*Chergui Mohammed Malek* and
 *Safraoui Mohammed Amine*
 
 ### License Information
