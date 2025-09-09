@@ -19,7 +19,7 @@
 
 ### Project Description
 WeatherWithMe is a collaborate project that uses a dataset (dictionary) of city names with their coordinates (longitude, latitude) 
-it uses a weather **API** in order to get weather information based on the coordinates of a city listed in the dataset, it uses of course as demanded jinja2 to show the data requested by the user in a html generated web page. when we finish it should show in the web page an input field to search the weather by the inputed city. We HOPE !!!.
+it uses a weather **API** in order to get weather information based on the coordinates of a city listed in the dataset, it uses of course as demanded jinja2 to show the data requested by the user in a html generated web page.
 
 ### License Information
 There is no license associated with this project
