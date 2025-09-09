@@ -1,2 +1,3 @@
 # WeatherWithMe
-UndercoverBears first Project (FBI_open_up x GrizzlyBears)
+UndercoverBears first Project ()
+This is the first collaboration ever between the 2 archenemies FBI_open_up and GrizzlyBears under the name UndercoverBears
