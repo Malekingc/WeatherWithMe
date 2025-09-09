@@ -1,5 +1,5 @@
-# <center> WeatherWithMe</center>
-## <center> UndercoverBears first Project </center>
+<h1 align="center"> WeatherWithMe</h1>
+<h2 align="center"> UndercoverBears first Project </h2>
 
 <p align="center">
   <img src="./logo.png" alt="Sorry no image"/>
