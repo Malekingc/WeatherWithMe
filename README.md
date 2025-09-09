@@ -7,7 +7,7 @@ This is the first collaboration ever between the 2 archenemies **FBI_open_up and
 *Cedrati Mohammed Cherif*
 
 **Team: GrizzluBears**
-*Chergui Mohammed Malek* and
+*Chergui Abdelmalek* and
 *Safraoui Mohammed Amine*
 
 ### License Information
