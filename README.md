@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center">FBI_open_up X GrizzlyBears </h5>
-
+<align="center">
 **PS : This is the first collaboration ever between the 2 archenemies** 
 
 **Team: FBI_Open_Up**
@@ -19,5 +19,5 @@
 
 ### License Information
 There is no license associated with this project
-
+</align>
 
