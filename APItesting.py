@@ -70,6 +70,8 @@ weather_codes = {
     99: "Thunderstorm with heavy hail"
 }
 
+weather_codes_alerts = [55, 57, 65, 67, 75, 82, 95, 96, 99]
+
 # Make sure all required weather variables are listed here
 # The order of variables in hourly or daily is important to assign them correctly below
 url = "https://api.open-meteo.com/v1/forecast"
